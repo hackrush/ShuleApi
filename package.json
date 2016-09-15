@@ -1,0 +1,23 @@
+{
+  "name": "shuleapi",
+  "version": "1.0.0",
+  "description": "A Curated Open Api For the School Data. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackrush/ShuleApi.git"
+  },
+  "keywords": [
+    "shuleapi",
+    "hackrush"
+  ],
+  "author": "Denzel Wamburu <denzjoseph@gmail.com> (http://denzel.xyz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackrush/ShuleApi/issues"
+  },
+  "homepage": "https://github.com/hackrush/ShuleApi#readme"
+}
