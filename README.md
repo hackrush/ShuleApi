@@ -16,12 +16,12 @@ A Curated Open Api For Your School's Data. :zap: :volcano: :unlock:
 
 ## Workability :airplane:
 
-The apis will be accessed through REST :meat_on_bone: in various end points.
+The apis will be accessed through *REST* :meat_on_bone: in various end points.
 
 ### Example
 * Screenshots
 
-Returned data from `/apis/aug2016/timetables.json`
+- Returned data from *GET* request at `/apis/aug2016/timetables`
 ![alt text](https://github.com/hackrush/ShuleApi/raw/master/images/Screenshot1.png "TimeTables")
 
 (**Documentation in process**)
