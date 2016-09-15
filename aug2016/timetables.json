@@ -1,0 +1,166 @@
+[
+    {
+        "unit": "Planar",
+        "timestart": "2016-02-15T05:30:38.092Z",
+        "timestop": "2016-02-15T20:00:38.100Z",
+        "location": "RC 6",
+        "lecturer": "Mr J.Kereita",
+        "id": "56c1505e44d8124709635af7",
+        "description": "A Short",
+        "Type": "Normal"
+    },
+    {
+        "unit": "ThermoDynamics",
+        "timestart": "2016-02-15T05:38:40.408Z",
+        "timestop": "2016-02-15T09:34:25.426Z",
+        "location": "RC 6",
+        "lecturer": "Mr. Vini",
+        "type": "Normal",
+        "course": "Mechatronics Eng",
+        "year": "3.1",
+        "id": "56c155793664a7783d6e62c2"
+    },
+    {
+        "unit": "EGS 2311-GIS LAB Digital Image analysis 1",
+        "timestart": "2016-09-12T08:00:04.985Z",
+        "timestop": "2016-09-12T10:00:04.993Z",
+        "location": "gis lab",
+        "lecturer": "Dr Sichangi",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6f92d1dbc3e000e299665"
+    },
+    {
+        "unit": "EGS LAB 2209 gis database system",
+        "timestart": "2016-09-12T05:00:32.292Z",
+        "timestop": "2016-09-12T07:00:32.297Z",
+        "location": "GIS LAB",
+        "lecturer": "Mr OMWANDHO",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6f9c91dbc3e000e299666"
+    },
+    {
+        "unit": "EGS 2309 GIs database system",
+        "timestart": "2016-09-12T07:00:28.159Z",
+        "timestop": "2016-09-12T10:00:28.163Z",
+        "location": "R10",
+        "lecturer": "MR OMWANDHO",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fa621dbc3e000e299667"
+    },
+    {
+        "unit": "EGS 2306 Web mapping",
+        "timestart": "2016-09-12T11:00:00.891Z",
+        "timestop": "2016-09-12T14:00:00.899Z",
+        "location": "R10",
+        "lecturer": "MR OMWANDHO",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fb2f1dbc3e000e299668"
+    },
+    {
+        "unit": "BCM 2439 real property law",
+        "timestart": "2016-09-12T05:00:23.159Z",
+        "timestop": "2016-09-12T07:00:23.165Z",
+        "location": "R9",
+        "lecturer": "MS JOSPHINE",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fbe21dbc3e000e299669"
+    },
+    {
+        "unit": "CLASS ADVISOR",
+        "timestart": "2016-09-12T07:00:02.256Z",
+        "timestop": "2016-09-12T09:00:02.260Z",
+        "location": "NA",
+        "lecturer": "NA",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fc4e1dbc3e000e29966a"
+    },
+    {
+        "unit": "EGS 2310 Gis spatial analysis",
+        "timestart": "2016-09-12T11:00:53.935Z",
+        "timestop": "2016-09-12T14:00:53.940Z",
+        "location": "GIS LAB",
+        "lecturer": "MS CAROL GIKWA",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fcd01dbc3e000e29966b"
+    },
+    {
+        "unit": "EGS 2306 LAB web planning",
+        "timestart": "2016-09-12T05:00:07.032Z",
+        "timestop": "2016-09-12T07:00:07.036Z",
+        "location": "GIS LAB",
+        "lecturer": "MR OMWANDHO",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fd451dbc3e000e29966c"
+    },
+    {
+        "unit": "EGS 2307 transporting planning",
+        "timestart": "2016-09-12T07:00:57.896Z",
+        "timestop": "2016-09-12T10:00:57.900Z",
+        "location": "R10",
+        "lecturer": "N/A",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fda31dbc3e000e29966d"
+    },
+    {
+        "unit": "EGS 2312 urban and regional planning",
+        "timestart": "2016-09-12T11:00:33.453Z",
+        "timestop": "2016-09-12T14:00:33.457Z",
+        "location": "BCW 1",
+        "lecturer": "MR JOHN MAINA",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fe061dbc3e000e29966e"
+    },
+    {
+        "unit": "EGS 2308 Digital mapping",
+        "timestart": "2016-09-12T05:00:13.127Z",
+        "timestop": "2016-09-12T07:00:13.130Z",
+        "location": "BCW 1",
+        "lecturer": "MR NAMASAKE",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6fe961dbc3e000e29966f"
+    },
+    {
+        "unit": "EGS 2311 Digital image analysis 1",
+        "timestart": "2016-09-12T07:00:33.968Z",
+        "timestop": "2016-09-12T10:00:33.973Z",
+        "location": "R10",
+        "lecturer": "MR SICHANGI",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6feec1dbc3e000e299670"
+    },
+    {
+        "unit": "EGS 2310 GIS spatial analysis",
+        "timestart": "2016-09-12T11:00:00.790Z",
+        "timestop": "2016-09-12T14:00:00.794Z",
+        "location": "BCW1",
+        "lecturer": "MS CAROL GIKWA",
+        "type": "Normal",
+        "course": "BSc in Geospatial Information Science",
+        "year": "3.2",
+        "id": "57d6ff461dbc3e000e299671"
+    }
+]
